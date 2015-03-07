@@ -16,7 +16,7 @@
     </head>
     <body>
 
-        <div id="head"><h1>Employees</h1></div>
+        <div id="head"><h1>EMPLOYEES</h1></div>
 
         <%
             String code = "0";
